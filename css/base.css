@@ -1,0 +1,9 @@
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  font-family: arial, helvetica, san-serif;
+  font-size: 20px;
+  color: #333333;
+}
