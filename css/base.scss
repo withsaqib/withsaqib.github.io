@@ -1,5 +1,6 @@
-$primary-color:red;
-$fontFamily:courierNew;
+$primary-color:#323232;
+$secondary-color:#fd7300;
+$fontFamily:	Courier New;
 *{
   color: $primary-color;
 }
@@ -7,4 +8,13 @@ body{
   font-size: 20px;
   color: $primary-color;
   font-family: $fontFamily;
+}
+section.site-header{
+  background: $primary-color;
+  color: $secondary-color;
+  text-align: center;
+  h2{
+    font-size:50px;
+    text-transform: uppercase;
+  }
 }
