@@ -1,9 +1,10 @@
 $primary-color:red;
-
+$fontFamily:courierNew;
 *{
   color: $primary-color;
 }
 body{
   font-size: 20px;
   color: $primary-color;
+  font-family: $fontFamily;
 }
