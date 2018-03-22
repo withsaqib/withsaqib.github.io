@@ -1,0 +1,9 @@
+$primary-color:red;
+
+*{
+  color: $primary-color;
+}
+body{
+  font-size: 20px;
+  color: $primary-color;
+}
